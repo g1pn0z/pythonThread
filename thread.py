@@ -29,3 +29,9 @@ if __name__ == "__main__":
     logging.info("Main    : wait for the thread to finish")
     # x.join()
     logging.info("Main    : all done")
+    
+    
+class BinanceCore:
+    def __init__(self):
+        """Constructor"""
+        pass
